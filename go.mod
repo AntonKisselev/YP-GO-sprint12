@@ -1,4 +1,4 @@
-module main
+module YP-GO-sprint12
 
 go 1.23
 
